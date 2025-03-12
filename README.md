@@ -11,8 +11,3 @@ This project is a sleek **Accordion Image Gallery** component that can be used i
 - **HTML5** – Structure.
 - **CSS3** – Animations and styling.
 - **JavaScript** – Interactivity and dynamic behavior.
-
-## 📂 Installation & Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/animation-card.git
