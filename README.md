@@ -1,2 +1,18 @@
-![card 2](https://github.com/user-attachments/assets/25eaa356-2b05-44b8-8781-a70afe14bf61)
-![card](https://github.com/user-attachments/assets/679c3a08-e628-4f67-b370-f78375c0034a)
+# 🎭 Animation Card
+
+This project is a sleek **Accordion Image Gallery** component that can be used in modern website designs. It is built using HTML, CSS, and JavaScript. When a user clicks on an image, the selected image expands while the others shrink, creating a smooth animation effect.
+
+## 📌 Features
+- 🌟 **Smooth Animations** – Optimized transitions with CSS and JavaScript.
+- 🎨 **Customizable** – Easily modifiable with HTML/CSS.
+- 🖱️ **Interactive Experience** – Clicked image expands, others shrink.
+
+## 🛠️ Technologies Used
+- **HTML5** – Structure.
+- **CSS3** – Animations and styling.
+- **JavaScript** – Interactivity and dynamic behavior.
+
+## 📂 Installation & Usage
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/animation-card.git
